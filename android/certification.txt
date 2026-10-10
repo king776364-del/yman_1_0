@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the yman 1.0
+---------------------------------------------------
+
+app_name - 						yman
+app_alias - 					yman
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Al Hudaydah
+app_author_country - 			Yemen
+app_password - 					QZ4oy7BPOiMA
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 10th of October 2026 08:14:57 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
